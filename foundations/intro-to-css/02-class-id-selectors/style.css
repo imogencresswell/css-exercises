@@ -8,3 +8,14 @@
 .odd.three {
     font-size: 24px;
 }
+
+#no2 {
+    color: #1111a9;
+    font-size: 36px;
+}
+
+#no4 {
+    background-color: hsl(128, 76%, 71%);
+    font-size: 24px;
+    font-weight: bold;
+}
