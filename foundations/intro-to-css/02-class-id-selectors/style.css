@@ -4,3 +4,7 @@
     background-color: rgb(250, 155, 171);
     font-family: "Verdana", "DejaVu Sans",sans-serif;
 }
+
+.odd.three {
+    font-size: 24px;
+}
