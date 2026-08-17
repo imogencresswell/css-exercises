@@ -33,5 +33,6 @@ body {
 button {
   background: white;
   display: block;
-  margin-left: 150px;
+  margin-left: 140px;
+  padding: 8px 20px;
 }
